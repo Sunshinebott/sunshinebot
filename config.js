@@ -30,13 +30,13 @@ year: 'numeric'
 })
 //TIME
 global.waktu = `${date}`
-global.namabot = '⫹⫺ ᴋᴏɴᴇᴋᴏ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ'
+global.namabot = '⫹⫺ Sunshine Bot'
 global.v = '-'   
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `ᴛ ɪ ᴍ ᴍ ᴇ : ${wktuwib}`
 // Sticker WM
-global.packname = `☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴋᴏɴᴇᴋᴏ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ`
-global.author = `© 𝟸𝟶𝟸𝟷 - 𝟸𝟶𝟸𝟹`
+global.packname = `☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Sunshine`
+global.author = `© Sunshine`
 
 /* ===========Hiasan=========== */
 let htjava = pickRandom(["乂", "❏", "⫹⫺", "⎔", "✦", "⭔", "⬟"])
@@ -66,15 +66,15 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘バージニティハンター˘�
 global.wm3 = '⫹⫺ ᴋᴏɴᴇᴋᴏ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ'
 global.md = 'ᴋᴏɴᴇᴋᴏ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ‌'
 //-----[OWNER]
-global.nomorown = '6283181666350'
+global.nomorown = '919172313321'
 global.owner = [
-['6283181666350'], // global owner 0
-['6283181666350'], // global owner 1
+['919172313321'], // global owner 0
+['917507573959'], // global owner 1
 ['6283181666350'], // global owner 2
 ['6283181666350', 'ᴛʜᴇ ʀᴇʏᴢ', true] // global owner 3
 ]
 global.mods = [] // siapa partner mu? 
-global.prems = ['6283181666350','6283181666350'] //premium unlimited
+global.prems = ['917507573959','917507573959'] //premium unlimited
 
 // =================={[(API KEYS)]}==================
 global.mupar = 'OnLasdan'
@@ -126,26 +126,23 @@ global.ibeng = 'QeyZTULyQg'
 global.wait = ' *「▰▰▰▱▱▱▱▱▱▱」ʟ ᴏ ᴀ ᴅ ɪ ɴ ɢ...* '
 
 ///==================/thumbnail 
-global.thumb = 'https://telegra.ph/file/03948b208767b8a24db30.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/03948b208767b8a24db30.jpg'
-global.thumbbc = 'https://telegra.ph/file/03948b208767b8a24db30.jpg' //For broadcast
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
+global.thumb = 'https://i.imgur.com/pTcbMwD.jpg' //Main Thumbnail
+global.thumb2 = 'https://i.imgur.com/pTcbMwD.jpg'
+global.thumbbc = 'https://i.imgur.com/pTcbMwD.jpg' //For broadcast
+global.giflogo = 'https://i.imgur.com/pTcbMwD.jpg'
 global.thumblvlup = 'https://telegra.ph/file/a3e66e0fa840b08236c75.jpg'
-global.footer = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ ฅ˘ᴋᴏɴᴇᴋᴏ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.footer = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ ฅ˘SUnshine˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/reymwmwk112'
-global.sgh = 'https://github.com/Reybot1238'
-global.sgc = 'https://chat.whatsapp.com/Em4vPwiN7151mO3lDpkdrm'
-global.sdc = 'https://discord.gg/fu2BQ5RZ'
-global.snh = 'https://nhentai.net/g/HaramTod🗿'
-global.sfb = 'https://www.facebook.com/Rey koncol'
-global.syt = 'https://youtube.com/@Litz445'
+global.sig = 'https://www.facebook.com/scorbunny.mlbb'
+global.sgh = 'https://github.com/sunshinebott'
+global.sgc = 'https://chat.whatsapp.com/BXq1FUjW9iW6xTvZObgDL4'
+
 //====== Url Template Buttons ======//
 global.dtu = 'ᴅᴏɴᴀᴛᴇ'
-global.urlnya = "https://pnggilajacn.my.id/contacts"
+global.urlnya = "https://pnggilajacn.my.id/contacts
 //========== callButtons ==========//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 831-8166-6350'
+global.phn = '+91 7507573959'
 global.ephemeral = '86400'
 global.monitor = "u2209032-5096e7f10915ab963640d415"
 global.multiplier = 69
